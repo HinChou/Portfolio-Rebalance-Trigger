@@ -1,5 +1,5 @@
 # Portfolio-Rebalance-Trigger
-A function in R that finds the stock drawdown which will trigger a rebalance
+A Function in R that Finds the Stock Drawdown Which Will Trigger a Rebalance
 
 # Problem:
  Write a function in R that finds the stock drawdown which will trigger a rebalance, if given: 
