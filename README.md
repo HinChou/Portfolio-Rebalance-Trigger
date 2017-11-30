@@ -1,14 +1,14 @@
 # Portfolio-Rebalance-Trigger
 A Function in R that Finds the Stock Drawdown Which Will Trigger a Rebalance
 
-# Problem
+### Challenge
  Write a function in R that finds the stock drawdown which will trigger a rebalance, if given: 
  1) an X% stock (vs bond) target allocation; 
  and 2) a Y% drift threshold from target allocation. 
 
 
 
-Assumptions are made by me:
+### Assumptions Are Made by Me
 
 1st, the current stock matrix has two columns, one is the ticker symbol, another is the current Z% stock (vs bond) allocation.
 
