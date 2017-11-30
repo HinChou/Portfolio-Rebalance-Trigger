@@ -8,7 +8,7 @@ A Function in R that Finds the Stock Drawdown Which Will Trigger a Rebalance
 
 
 
-### Assumptions Are Made by Me
+### Assumptions Made by Me
 
 1st, the current stock matrix has two columns, one is the ticker symbol, another is the current Z% stock (vs bond) allocation.
 
